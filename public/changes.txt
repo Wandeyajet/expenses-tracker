@@ -1,0 +1,10 @@
+Change fonts
+add background
+button/ highlight
+light/dark mood 
+redesign to be nice
+
+/* #FFBBCC #FFDDCC  #99154E 
+ #ff94af #890e2d;
+ #331019;
+ dark border, button hover #0e0004;

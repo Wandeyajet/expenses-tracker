@@ -1,14 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&family=Anek+Bangla:wght@300&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 html {
-  font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Alumni Sans Inline One','Poppins', sans-serif;
+font-family: 'Anek Bangla', sans-serif;
+  background:#FFDDCC ;
 }
 
 body {
   margin: 0;
-  background-color: #3f3f3f;
+  background:  #FFDDCC;
 }
